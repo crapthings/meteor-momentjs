@@ -1,0 +1,8 @@
+{
+	"name": "momentjs",
+	"description": "A javascript date library for parsing, validating, manipulating, and formatting dates.",
+	"homepage": "https://github.com/crapthings/meteor-momentjs",
+	"author": "timrwood",
+	"version": "2.0.0",
+	"git": "https://github.com/crapthings/meteor-momentjs.git"
+}
