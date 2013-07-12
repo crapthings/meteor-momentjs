@@ -3,5 +3,5 @@ Package.describe({
 });
 
 Package.on_use(function(api) {
-  api.add_files(['moment/moment.js'], ['client', 'server']);
+  api.add_files(['moment/min/moment.min.js', 'moment/min/langs.min.js'], ['client', 'server']);
 });
