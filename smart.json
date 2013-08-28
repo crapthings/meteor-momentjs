@@ -3,6 +3,6 @@
   "description": "A javascript date library for parsing, validating, manipulating, and formatting dates.",
   "homepage": "https://github.com/crapthings/meteor-momentjs",
   "author": "Tim Wood",
-  "version": "2.1.0.1",
+  "version": "2.1.0.2",
   "git": "https://github.com/crapthings/meteor-momentjs.git"
 }
